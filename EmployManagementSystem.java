@@ -83,7 +83,7 @@ class EmployDetail
         email=sc.nextLine();
         System.out.print("Enter Employee's Position ----: ");
         position=sc.nextLine();
-        System.out.print("Enter Employee contact Info --: ");
+        System.out.print("Enter Employee contact Number --: ");
         employ_contact=sc.nextLine();
         System.out.print("Enter Employee's Salary ------: ");
         employ_salary=sc.nextLine();
