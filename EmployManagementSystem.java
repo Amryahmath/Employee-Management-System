@@ -212,7 +212,7 @@ class EmployManagementSystem
             catch(Exception e){System.out.println(e);}
 
 
-            System.out.print("\nPress Enter to Continue...");
+            System.out.print("\nPress Enter to Continue......");
             sc.nextLine();
             System.out.print("\033[H\033[2J");
             obj1.menu();
